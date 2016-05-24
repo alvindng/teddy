@@ -1,0 +1,18 @@
+body {
+  color: #393939;
+  font-family: "Helvetia Neue", sans-serif;
+  font-weight: 200px;
+}
+
+p {
+  font-size: 20px;
+}
+
+img {
+  padding: 10px;
+}
+
+a {
+  color: #D34B4B;
+  text-decoration: none;
+}
