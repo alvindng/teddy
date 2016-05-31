@@ -16,3 +16,13 @@ a {
   color: #D34B4B;
   text-decoration: none;
 }
+
+.white-black {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+.black-white {
+  background-color: #000000;
+  color: #FFFFFF;
+}
